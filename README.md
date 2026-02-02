@@ -1,22 +1,12 @@
-Reminders Management API
+# Reminders API
 
-A simple Spring Boot REST API to manage reminders.
+Simple Spring Boot REST API for managing reminders.
 
-Features
-
-Create, update, view, delete reminders
-
-Mark reminders as completed
-
-Input validation & exception handling
-
-Tech
-
+## Tech
 Java, Spring Boot, JPA, H2
 
-Run
+## Run
 mvn spring-boot:run
 
-Author
-
+## Author
 Mano Vignesh
